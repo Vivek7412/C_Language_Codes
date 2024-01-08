@@ -38,7 +38,7 @@ printf("Sum of:%d",sum);
 {
     int l,w,a;
     printf("\nEnter area of a rectangle:\n");
-    scanf("%d%",&l);
+    scanf("%d",&l);
     scanf("%d",&w);
      a=l*w;
     printf("Area of rectangle is%d",a);

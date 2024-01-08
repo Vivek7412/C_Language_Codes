@@ -12,8 +12,6 @@ int main(){
         {
             break;
         }
-        
-    
     } 
     while (1);
     printf("Thank you");
