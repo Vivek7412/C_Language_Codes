@@ -6,7 +6,7 @@ int main()
     FILE *fptr;
     fptr = fopen("all odd no.txt", "w");
     int n;
-    printf("Enter n:");
+    printf("I am vivek Enter n:");
     scanf("%d", &n);
     for (int i = 1; i <= n; i++)
     {
